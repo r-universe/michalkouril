@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "pcatsAPIclientR"]
 	path = pcatsAPIclientR
 	url = https://github.com/cran/pcatsAPIclientR
-	shallow = true
-	registered = true
