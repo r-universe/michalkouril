@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "oncmap"]
+	path = oncmap
+	url = https://github.com/cran/oncmap
 [submodule "pcatsAPIclientR"]
 	path = pcatsAPIclientR
 	url = https://github.com/cran/pcatsAPIclientR
